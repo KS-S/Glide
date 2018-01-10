@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Glide.iml" filepath="$PROJECT_DIR$/Glide.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fastglide/fastglide.iml" filepath="$PROJECT_DIR$/fastglide/fastglide.iml" />
     </modules>
   </component>
 </project>
